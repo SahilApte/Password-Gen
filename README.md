@@ -1,11 +1,12 @@
-# Password-Gen
-A simple Password Generator written in python.
+# Password-Generator
+A simple Password Generator written in python 3
 
-### Modules : 
+### Modules Used : 
+No external installation required it's all built-in
 
-String
-
-Random
+1)String
+2)Random
 
 ## Note
-If you have any problems please raise an issue.
+If you any problems/suggestions your free to raise pr.
+or  if you don't have the code but have any idea/suggestions just leave a comment under my code I'll try my best to implement it.
