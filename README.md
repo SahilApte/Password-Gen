@@ -8,5 +8,5 @@ No external installation required it's all built-in
 2)Random
 
 ## Note
-If you any problems/suggestions your free to raise pr.
-or  if you don't have the code but have any idea/suggestions just leave a comment under my code I'll try my best to implement it.
+If you have any problems/suggestions your free to raise pr.
+or  if you don't have the code but have any idea/suggestions/features leave a comment under my code I'll try my best to implement it.
